@@ -7,3 +7,61 @@ Cross-Browser Compatibility: The login page performs consistently across various
 Automation Readiness: The test cases are structured to be easily automated for regression testing.
 #
 - <a href="https://github.com/Arnavchoudhari30/Software-testing-live-project-Orange-hrm-/blob/main/orangehrmlive%20project.xlsx">
+📌 Test Case Documentation
+Test Scenarios: Covering login, employee management, leave requests, payroll, etc.
+
+Test Cases: Well-structured cases with test steps, expected results, and actual results.
+
+Test Plan: A document describing the testing strategy, scope, and objectives.
+
+Bug Report Template: For logging defects systematically.
+
+📌 Test Case Categories for OrangeHRM Live
+Login & Authentication
+
+Valid and invalid credentials
+
+Forgot password functionality
+
+Session timeout
+
+Employee Management
+
+Adding new employees
+
+Editing and deleting employee records
+
+Assigning job roles
+
+Leave Management
+
+Applying for leave
+
+Approving/rejecting leave requests
+
+Checking leave balance
+
+Time Tracking & Attendance
+
+Clock in/out functionality
+
+Verifying work hours
+
+Attendance reports
+
+Payroll & Salary Module
+
+Viewing salary slips
+
+Managing salary structure
+
+Processing payroll
+
+Performance & Reports
+
+Performance review submissions
+
+Generating HR reports
+
+Exporting reports in different formats
+
