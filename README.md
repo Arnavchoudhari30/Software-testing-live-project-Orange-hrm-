@@ -63,5 +63,4 @@ Performance review submissions
 
 Generating HR reports
 
-Exporting reports in different formats
 
